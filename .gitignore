@@ -1,3 +1,4 @@
 .devcontainer/
 .codesandbox/
 node_modules
+.vscode
