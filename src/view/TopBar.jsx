@@ -1,5 +1,5 @@
 // export default () => {
-const TopBar = ({ children }) => {
+const TopBar = ({children }) => {
 	return (
 		<div className="top-bar">
 			{children}
