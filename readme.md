@@ -3,6 +3,18 @@
 Copyright © Written by [Yariv Gilad](https://yarivgilad.com) 
 <hr>
 
+## How to run the project
+1. Open up VS Code and open its terminal
+2. Clone this repository - `git clone https://github.com/YarivGilad/React-01-props--start.git`
+3. Run `npm install` to install all of the dependencies and dev dependencies
+4. Run `npm run dev` to start the development server
+5. Open the browser and navigate to `http://localhost:5173`
+
+## How to build the project
+1. Run `npm run build` to build the project
+2. The built files will be in the `dist` directory
+3. You can deploy the `dist` directory to your web server (Netlify Drop, GitHub Pages, Vercel, etc.)
+
 ### It's time for a Vacation!!
 -------------------------------->
 
