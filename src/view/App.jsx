@@ -1,5 +1,5 @@
-// import {Card} from './Card'
-import Card from './Card'
+// import Card from './Card'
+import {Card} from './Card'
 import TopBar from './TopBar'
 
 export default function App() {

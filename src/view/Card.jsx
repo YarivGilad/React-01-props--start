@@ -11,7 +11,7 @@ export function Card(props) {
 		</div>
 	)
 }
-export default Card
+// export default Card
 
 /*  
   2. Destructure props, arrow function component 

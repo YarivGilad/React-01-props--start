@@ -9,10 +9,6 @@
     "url": "https://yarivgilad.com"
   },
   "main": "src/index.js",
-  "dependencies": {
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -24,8 +20,12 @@
     "not ie <= 11",
     "not op_mini all"
   ],
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
   "devDependencies": {
-    "vite": "^5.0.11",
-    "@vitejs/plugin-react": "^4.2.1"
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^7.2.2"
   }
 }
